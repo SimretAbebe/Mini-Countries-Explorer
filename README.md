@@ -1,4 +1,4 @@
-🌍 Mini REST Countries Explorer
+#🌍 Mini REST Countries Explorer
 
 A cool, interactive web application that lets you explore country data using the new React Router v7 framework. This project fetches data from the REST Countries API and allows you to filter and view detailed information about countries — including their names, capitals, regions, populations, and flags.
 
